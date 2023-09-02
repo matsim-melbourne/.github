@@ -1,8 +1,10 @@
 # Activity-based and agent-based Transport model of Melbourne (AToM)
 
 AToM is a city-scale multi-modal transport simulation, modelling a typical mid-weekday day in the transportation system of Melbourne for understanding. 
-AToM workflow, Figure below, constists of open-source tools with MATSim simulation toolkit as the core traffic simulator. 
+AToM workflow, Figure 1, constists of open-source tools with MATSim simulation toolkit as the core traffic simulator. 
 The open-source tools include an activity-based transport demand generator](https://github.com/matsim-melbourne/demand), a [road and public transport network genereator](https://github.com/matsim-melbourne/network), a [mode choice model](https://github.com/matsim-melbourne/choice-model), and [a set of MATSim simulation output and input postprocessing tools](https://github.com/matsim-melbourne/useful-scripts).
+
+![workflow_v5](https://github.com/matsim-melbourne/.github/assets/3414292/e8a83d33-7588-4855-b1ad-706df921778d) **Figure 1.** AToM workflow
 
 AToM is being actively developed and used to test different scenrarios. Notable examples include modelling impact of full development of the Strategic Cycling Corridors in Melbourne, modelling the Phase 1 of the Melbourne's Surbun Rail Loop project. 
 
